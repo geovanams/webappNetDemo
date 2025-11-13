@@ -1,5 +1,4 @@
-name: Build and deploy Load Test Web App
-
+name: Build and deploy Web App
 env:
   AZURE_WEBAPP_NAME_DEV: WebAppNetDev    # set this to the name of your Azure Web App
   AZURE_WEBAPP_NAME_TEST: WebAppNetTest
